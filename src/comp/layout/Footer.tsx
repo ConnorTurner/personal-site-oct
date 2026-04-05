@@ -9,7 +9,7 @@ export default function Footer() {
         <section className={styles.footer}>
           <a
             className={`${styles.link} ${styles.github}`}
-            href="https://github.com/cturn5830"
+            href="https://github.com/ConnorTurner"
             target="_blank"
           >
             Github
